@@ -1,4 +1,4 @@
-const dbConnect = require('./utils/dbConnect')
+const dbConnect = require('../utils/dbConnect')
 // async function getData(){
 //     let result = await client.connect();
 //     let db = result.db(database);
